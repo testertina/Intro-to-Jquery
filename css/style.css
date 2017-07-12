@@ -1,0 +1,28 @@
+ul#people {
+  list-style: none;
+}
+
+ul#people li {
+  margin: 10px;
+}
+
+.card {
+  height: 100px;
+  width: 400px;
+  line-height: 100px;
+  text-align: center;
+  border: solid 5px black;
+  border-radius: 7px;
+  color: white;
+  font-size: 40px;
+  background-color: red;
+  display: absolute;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
